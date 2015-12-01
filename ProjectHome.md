@@ -1,0 +1,1 @@
+This is an academic project, for an Advanced Computer Architecture course at UW-Madison. Our goal is to extend SimpleScalar simulator for executing multi-threaded applications, with support for SC and TSO memory models and a cache coherency protocol.
